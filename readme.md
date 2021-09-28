@@ -1,9 +1,10 @@
 # Gifting 
 
 This directory is supplementary material for the IJCAI 2021 paper:
+
 Woodrow Z. Wang\*, Mark Beliaev\*, Erdem Bıyık\*, Daniel A. Lazar, Ramtin Pedarsani, Dorsa Sadigh. "Emergent Prosociality in Multi-Agent Games Through Gifting"
 
-All relevant citations for methods used are found in the paper's list of references
+All relevant citations for methods used are found in the paper's list of references.
 
 ## Requirements
 
