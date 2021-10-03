@@ -38,6 +38,7 @@ To model the dynamics of stag hunt with and without gifting, as done in **Sectio
 All relevant information and explanation can be found in the file. 
 
 **(2) Running a DQN algorithm on Stag Hunt with gifting**
+
 As done in most experiemnts in **Section 5**, we run DQN on various environments all deriving from open-ai's 
 basic "gym environment" structure. These environments can be found in **/games/**. The DQN structure and algorithm was written for this experiment using pytorch. All relevant files needed to run DQN are given in **/utils/**. We show how to run a DQN algorithm on Stag Hunt with and without gifting, and varying levels of risk in **example.py**. By default **example.py** will run for only 16 seeds. Nonetheless this is enough to show that higher risk settings benefit greatly from additional gifting actions. Parameters used in **example.py** correspond to the ones described in **Section 5.2**, but can  be changed for different experiment settings, such as varying the gift value.
 
